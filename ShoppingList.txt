@@ -4,5 +4,5 @@ Milk
 Water
 Cheese
 Kit Kat
-Nova Water
-Apples
+Nova water
+Orange
